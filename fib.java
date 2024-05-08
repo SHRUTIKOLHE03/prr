@@ -1,4 +1,4 @@
-#Simple Fibbonaci Code:
+//Simple Fibbonaci Code:
 
 class fib
 {  
